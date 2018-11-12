@@ -1,0 +1,24 @@
+C:\Users\plonz\Desktop\UczelniaApp\UczelniaApp\bin\Debug\UczelniaApp.exe.config
+C:\Users\plonz\Desktop\UczelniaApp\UczelniaApp\bin\Debug\UczelniaApp.exe
+C:\Users\plonz\Desktop\UczelniaApp\UczelniaApp\bin\Debug\UczelniaApp.pdb
+C:\Users\plonz\Desktop\UczelniaApp\UczelniaApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\plonz\Desktop\UczelniaApp\UczelniaApp\obj\Debug\UczelniaApp.Properties.Resources.resources
+C:\Users\plonz\Desktop\UczelniaApp\UczelniaApp\obj\Debug\UczelniaApp.csproj.GenerateResource.cache
+C:\Users\plonz\Desktop\UczelniaApp\UczelniaApp\obj\Debug\UczelniaApp.csproj.CoreCompileInputs.cache
+C:\Users\plonz\Desktop\UczelniaApp\UczelniaApp\obj\Debug\UczelniaApp.csproj.CopyComplete
+C:\Users\plonz\Desktop\UczelniaApp\UczelniaApp\obj\Debug\UczelniaApp.exe
+C:\Users\plonz\Desktop\UczelniaApp\UczelniaApp\obj\Debug\UczelniaApp.pdb
+C:\Users\plonz\Desktop\UczelniaApp\UczelniaApp\obj\Debug\UczelniaApp.csprojAssemblyReference.cache
+C:\Users\plonz\Desktop\UczelniaApp\UczelniaApp\obj\Debug\UczelniaApp.MainForm.resources
+C:\Users\plonz\Desktop\Ado.NET uczelnia\UczelniaApp\UczelniaApp\bin\Debug\UczelniaApp.exe.config
+C:\Users\plonz\Desktop\Ado.NET uczelnia\UczelniaApp\UczelniaApp\bin\Debug\UczelniaApp.exe
+C:\Users\plonz\Desktop\Ado.NET uczelnia\UczelniaApp\UczelniaApp\bin\Debug\UczelniaApp.pdb
+C:\Users\plonz\Desktop\Ado.NET uczelnia\UczelniaApp\UczelniaApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\plonz\Desktop\Ado.NET uczelnia\UczelniaApp\UczelniaApp\obj\Debug\UczelniaApp.csprojAssemblyReference.cache
+C:\Users\plonz\Desktop\Ado.NET uczelnia\UczelniaApp\UczelniaApp\obj\Debug\UczelniaApp.MainForm.resources
+C:\Users\plonz\Desktop\Ado.NET uczelnia\UczelniaApp\UczelniaApp\obj\Debug\UczelniaApp.Properties.Resources.resources
+C:\Users\plonz\Desktop\Ado.NET uczelnia\UczelniaApp\UczelniaApp\obj\Debug\UczelniaApp.csproj.GenerateResource.cache
+C:\Users\plonz\Desktop\Ado.NET uczelnia\UczelniaApp\UczelniaApp\obj\Debug\UczelniaApp.csproj.CoreCompileInputs.cache
+C:\Users\plonz\Desktop\Ado.NET uczelnia\UczelniaApp\UczelniaApp\obj\Debug\UczelniaApp.csproj.CopyComplete
+C:\Users\plonz\Desktop\Ado.NET uczelnia\UczelniaApp\UczelniaApp\obj\Debug\UczelniaApp.exe
+C:\Users\plonz\Desktop\Ado.NET uczelnia\UczelniaApp\UczelniaApp\obj\Debug\UczelniaApp.pdb
